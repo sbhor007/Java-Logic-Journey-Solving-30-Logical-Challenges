@@ -1,6 +1,6 @@
 # Java-Logic-Journey-Solving-30-Logical-Challenges
 
-## Q. Swaping -  using third variable
+## Q. Solution-1 - Swap Two numbers using third variable
 
 ## Q. Swapping2 - Swap two numberse without third variable
   - Use Addition / Substraction method
