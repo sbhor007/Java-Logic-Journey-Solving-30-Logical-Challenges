@@ -3,6 +3,7 @@
 ## Q. Solution-1 - Swap Two numbers using third variable
 
 ## Q. Solution-2 - Swap two numberse without third variable
+<!--
   - Use Addition / Substraction method
      ```
      no1 = 10, no2 = 20
@@ -37,4 +38,4 @@
 
       RESULT : no1 = 20, no2 = 10
       ```
-
+-->
